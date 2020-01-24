@@ -14,7 +14,7 @@
         android:layout_marginEnd="4dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@color/colorPrimary" />
+        app:srcCompat="#3F51B5" />
 
     <ImageView
         android:id="@+id/image_view_dice"
